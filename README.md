@@ -7,9 +7,9 @@ This serves as the API documentation for [hashdd.com](https://www.hashdd.com). T
 
 
 # General
-- **[Result](https://github.com/hashdd/api_documentation/blob/master/general/result.md)
-- **[Verdict](https://github.com/hashdd/api_documentation/blob/master/general/verdict.md)
+- **[API Result Dictionary](https://github.com/hashdd/api_documentation/blob/master/general/result.md)**
+- **[Description of Verdicts](https://github.com/hashdd/api_documentation/blob/master/general/verdict.md)**
 
 # Endpoints
 
-- **[<code>POST</code> /](https://github.com/hashdd/api_documentation/blob/master/endpoints/POST_status.md)
+- **[<code>POST</code> /](https://github.com/hashdd/api_documentation/blob/master/endpoints/POST_status.md)**
