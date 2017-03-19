@@ -3,7 +3,7 @@
 This serves as the API documentation for [hashdd.com](https://www.hashdd.com). This is under active development and is subject to change until otherwise announced. 
 
 # API URL
-- ** https://api.hashdd.com
+- **https://api.hashdd.com**
 
 
 # General

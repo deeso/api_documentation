@@ -1,10 +1,10 @@
 # Verdicts 
 
-Verdicts are made on all files and hashes within hashdd. These verdicts are described through the `known_level` and `intent` groupings. 
+Verdicts are made on all hashes within hashdd. These verdicts are described through the `known_level` and `intent` groupings. 
 
 ## Known Level
 
-Describes whether or not a hash is known to hashdd and, in some cases, if that hash represents a file with a known good or bad intent. Known levels are described in the following table:
+Describes whether or not a hash is known to hashdd and in some cases, if that hash represents a file with a known good or bad intent. Known levels are described in the following table:
 
 | Value         | Description                               |
 | ------------- | ----------------------------------------- |
